@@ -283,21 +283,12 @@ Develop personalized engagement strategies for high-frequency customers.
 CDACL-006-Market-Analysis/
 │
 ├── README.md
-│
-├── SQL/
-│   ├── 01_Aisle_Analysis.sql
-│   ├── 02_Department_Analysis.sql
-│   ├── 03_Customer_Behavior.sql
-│   ├── 04_Product_Performance.sql
-│   └── 05_Marketing_Insights.sql
-│
+|
 ├── Presentation/
 │   └── Market_Analysis_Presentation.pptx
 │
 ├── Documentation/
-│   └── Market_Analysis_Insights.docx
-│
-└── Screenshots/
+    └── Market_Analysis_Insights.docx
 ```
 
 ---
